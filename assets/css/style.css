@@ -1,0 +1,116 @@
+<style> 
+
+		body {
+
+			background-color:##eeeeee;
+			width: 960px;
+			/*padding: 60px 60px 30px 30px;*/
+		}
+		.myName {
+
+			/*position: absolute;
+			left: 150px;*/
+			float: left;
+			width: 33%;
+			height: 40px;
+			padding: 10px;
+			text-align: center;
+			font-size:30px;
+			font-family: 'Georgia', Times, Times New Roman, serif;
+			color:#f9ffff;
+			background-color: #4aaaa5;
+			border-color: #cccccc;
+			margin-left: 85px;
+			/*padding: 10px 10px 30px 30px;*/
+		}
+
+
+		.about_section{
+			
+			float: left;
+			width: 40%;
+			color:#777777;
+			font-size:20px;
+			font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+			background-color: white;
+			height: 40px;
+			padding: 10px;
+			text-align: center;
+		}
+
+		h2 {
+
+			font-size:40px;
+			font-family: 'Georgia', Times, Times New Roman, serif;
+			color:#4aaaa5;
+			font-weight:normal;
+			background-color: #ffffff;
+		}
+
+		h3 {
+
+			font-size:25px;
+			font-family: 'Georgia', Times, Times New Roman, serif;
+			color:#4aaaa5;
+			background-color: black;
+			font-weight:normal;
+		}
+
+		
+
+		.body_content
+
+		{
+			float: left;
+			width: 60%;
+			background-color: white;
+			border:solid 2px;
+			margin-top : 10px;
+			margin-left: 85px;
+
+		}
+
+		#p2{
+
+			color:#777777;
+			font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		
+		}
+
+		.p3{
+
+			color:#777777;
+			font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		}
+
+		footer {
+
+			clear: both;
+			background-color: #666666;
+			padding: 30px 30px 30px 30px;
+			text-align: center;
+			font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		}
+
+		.connect {
+
+			float: left;
+			width:50%;
+			padding: 10px;
+			margin-left: 85px;
+		}
+
+
+		.image {
+
+			height:75px;
+			width :75px;
+		}
+
+	
+		.navBar{
+			background-color: #ffffff;
+			/*padding: 10px 10px 30px 30px;*/
+		}
+
+</style>
