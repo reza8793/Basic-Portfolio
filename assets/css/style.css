@@ -77,46 +77,22 @@ body{
 	/*color: #b0b3c1;*/
 }
 
-/*.about_section{
 
-	/*position: absolute;*/
-	/*float: left;
-	width: 550px;
-	color:#777777;
-	font-size:20px;
-	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	background-color: white;
+h2{
+
+	width: 250px;
 	height: 90px;
-	/*padding: 10px;*/
-	/*line-height: 90px;
-	text-align: right;
-	bord*//*er:solid 1px;
-	border-color: #cccccc;*/
-}
-
- .About_me_class {
-
-	display: block;
-	font-size:100px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	line-height: 90px;
+	text-align: left;
+	font-size:2em;
+	font-family: 'Georgia';
 	color:#4aaaa5;
-	font-weight:normal;
 	background-color: #ffffff;
+	border-color: #cccccc;
 	margin-left: 30px;
-	margin-top: 32px;
-	margin-bottom: 32px;
-	border-bottom: 5px solid #4aaaa5;
-	border-spacing: 10px;
+	/*padding: 10px 10px 30px 30px;*/
 }
 
-/*h3 {
-
-	font-size:25px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
-	color:#4aaaa5;
-	background-color: black;
-	font-weight:normal;
-}*/
 
 .body_content
 {
